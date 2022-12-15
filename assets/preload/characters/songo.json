@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "SONGOIDLE"
+		},
+		{
+			"offsets": [
+				-60,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "SONGOLEFT"
+		},
+		{
+			"offsets": [
+				160,
+				101
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "SONGODOWN"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "SONGOUP"
+		},
+		{
+			"offsets": [
+				10,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "SONGORIGHT"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/SONGO_ASSETS",
+	"position": [
+		-840,
+		-760
+	],
+	"healthicon": "songo",
+	"flip_x": false,
+	"healthbar_colors": [
+		58,
+		107,
+		221
+	],
+	"camera_position": [
+		770,
+		630
+	],
+	"sing_duration": 6.1,
+	"scale": 0.4
+}

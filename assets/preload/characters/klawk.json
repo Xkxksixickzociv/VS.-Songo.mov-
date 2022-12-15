@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "KIDLE"
+		},
+		{
+			"offsets": [
+				21,
+				-12
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "KLEFT"
+		},
+		{
+			"offsets": [
+				-30,
+				-32
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "KDOWN"
+		},
+		{
+			"offsets": [
+				20,
+				20
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "KUP"
+		},
+		{
+			"offsets": [
+				-24,
+				-10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "KRIGHT"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/KlawkNEWER",
+	"position": [
+		40,
+		200
+	],
+	"healthicon": "songo",
+	"flip_x": false,
+	"healthbar_colors": [
+		58,
+		107,
+		221
+	],
+	"camera_position": [
+		100,
+		30
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
